@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Ruben
 
-<!--
-**Rubenn34/Rubenn34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Tecnólogo em Informática para Web em Formação
+💻 Desenvolvedor Front-End  
+✨ Crio sites responsivos com HTML, CSS, Tailwind e JavaScript
 
-Here are some ideas to get you started:
+## 📂 Projetos em Destaque
+- Portfólio pessoal
+- Projeto Achados e Perdidos
+- Modelos de site simples 🧑‍💼
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contato
+📧 rubenmiqueias11@gmail.com  
+📱 (84) 99948-8466
