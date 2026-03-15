@@ -1,13 +1,41 @@
-# 👋 Olá, eu sou o Ruben
+# Olá, eu sou Ruben 👋
 
-🎓 Estudante de Tecnólogo em Informática para Web em Formação
-💻 Desenvolvedor Front-End  
-✨ Crio sites responsivos com HTML, CSS, Tailwind e JavaScript
+🎓 Estudante de Informática no **IFRN – Campus Santa Cruz**
 
-## 📂 Projetos em Destaque
-- Portfólio pessoal
-- Projeto Achados e Perdidos
-- Modelos de site simples 🧑‍💼
+Atualmente estudando e desenvolvendo projetos em programação, com foco em desenvolvimento de software e aplicações web.
+
+---
+
+## 💻 Tecnologias
+
+* Java
+* MySQL
+* HTML
+* CSS
+* JavaScript
+
+---
+
+## 🚀 Projetos em destaque
+
+🔹 **IFAchados**
+Sistema de gerenciamento de objetos perdidos e encontrados com sistema de correspondência por similaridade.
+
+🔹 **Deflect**
+Jogo desenvolvido em HTML, CSS e JavaScript.
+
+🔹 **Acionamentos e Comandos Elétricos**
+Site educativo com material de estudo sobre comandos elétricos.
+
+---
+
+## 📚 Atualmente estudando
+
+* Desenvolvimento Web
+* Estrutura de Dados
+* Banco de Dados
+* Lógica de Programação
+
 
 ## 📫 Contato
 📧 rubenmiqueias11@gmail.com  
