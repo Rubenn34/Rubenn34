@@ -14,17 +14,19 @@ Atualmente estudando e desenvolvendo projetos em programação, com foco em dese
 * CSS
 * JavaScript
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rubenn34&layout=compact&theme=tokyonight)
+
 ---
 
 ## 🚀 Projetos em destaque
 
-🔹 **IFAchados**
+🔹 [IFAchados](https://github.com/Rubenn34/IFAchados)
 Sistema de gerenciamento de objetos perdidos e encontrados com sistema de correspondência por similaridade.
 
-🔹 **Deflect**
+🔹 [Deflect](https://github.com/Rubenn34/Deflect)
 Jogo desenvolvido em HTML, CSS e JavaScript.
 
-🔹 **Acionamentos e Comandos Elétricos**
+🔹 [Acionamentos e Comandos Elétricos](https://github.com/Rubenn34/Acionamentos-ComandosEletricos)
 Site educativo com material de estudo sobre comandos elétricos.
 
 ---
@@ -36,6 +38,7 @@ Site educativo com material de estudo sobre comandos elétricos.
 * Banco de Dados
 * Lógica de Programação
 
+---
 
 ## 📫 Contato
 📧 rubenmiqueias11@gmail.com  
