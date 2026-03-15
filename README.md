@@ -1,6 +1,6 @@
 # Olá, eu sou Ruben 👋
 
-🎓 Estudante de Informática no **IFRN – Campus Santa Cruz**
+🎓 Estudante de Informática no **IFRN**
 
 Atualmente estudando e desenvolvendo projetos em programação, com foco em desenvolvimento de software e aplicações web.
 
